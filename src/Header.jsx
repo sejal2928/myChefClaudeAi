@@ -6,4 +6,4 @@ export default function Header() {
         <h1>Chef Claude</h1>
         </header>
     )
-}
+} 
